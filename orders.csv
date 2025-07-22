@@ -1,0 +1,5 @@
+order_id,product_id,product_name,quantity,delivery_address,order_date,total_price
+ORD6E2490,F014,Outdoor Patio Chair,4,"221B Baker Street, London",2025-07-22,480.0
+ORD11589C,F003,Ergonomic Office Chair,5,Churchgate Road,2025-07-22,1100.0
+ORD95E4F5,F007,Minimalist Bookshelf,3,Churchgate Road,2025-07-22,630.0
+ORD85D2DD,F004,Scandinavian Coffee Table,4,"1234 Drive, ABCD Avenue, City Name",2025-07-22,720.0

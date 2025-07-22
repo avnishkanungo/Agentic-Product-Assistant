@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "product_id": "F001",
+      "name": "Oakwood Dining Table",
+      "description": "Beautiful natural oak dining table perfect for family gatherings. Seats 6 people comfortably with a durable finish.",
+      "price": 450.00,
+      "stock_quantity": 15,
+      "category": "Dining Room"
+    },
+    {
+      "product_id": "F002",
+      "name": "Modern Leather Sofa",
+      "description": "Luxurious dark brown leather sofa with contemporary design. Features high-quality cushioning and sturdy frame.",
+      "price": 1200.00,
+      "stock_quantity": 8,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F003",
+      "name": "Ergonomic Office Chair",
+      "description": "Professional black office chair with lumbar support and adjustable height. Perfect for long work sessions.",
+      "price": 220.00,
+      "stock_quantity": 25,
+      "category": "Office"
+    },
+    {
+      "product_id": "F004",
+      "name": "Scandinavian Coffee Table",
+      "description": "Minimalist white and natural wood coffee table with clean lines and modern aesthetic.",
+      "price": 180.00,
+      "stock_quantity": 12,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F005",
+      "name": "Velvet Accent Chair",
+      "description": "Elegant emerald green velvet accent chair that adds a pop of color to any room.",
+      "price": 350.00,
+      "stock_quantity": 10,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F006",
+      "name": "Rustic Wooden Bed Frame",
+      "description": "Handcrafted walnut bed frame with rustic charm and solid construction. Perfect for a cozy bedroom.",
+      "price": 950.00,
+      "stock_quantity": 6,
+      "category": "Bedroom"
+    },
+    {
+      "product_id": "F007",
+      "name": "Minimalist Bookshelf",
+      "description": "Sleek matte black bookshelf with clean lines and multiple shelves for storage and display.",
+      "price": 210.00,
+      "stock_quantity": 20,
+      "category": "Storage"
+    },
+    {
+      "product_id": "F008",
+      "name": "Industrial Bar Stool",
+      "description": "Steel grey industrial-style bar stool with adjustable height and comfortable seating.",
+      "price": 90.00,
+      "stock_quantity": 18,
+      "category": "Dining Room"
+    },
+    {
+      "product_id": "F009",
+      "name": "Luxury Recliner Chair",
+      "description": "Premium beige recliner chair with multiple positions and plush cushioning for ultimate comfort.",
+      "price": 670.00,
+      "stock_quantity": 7,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F010",
+      "name": "Glass Top Side Table",
+      "description": "Modern side table with clear glass top and chrome legs, perfect for contemporary spaces.",
+      "price": 160.00,
+      "stock_quantity": 14,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F011",
+      "name": "Classic Wooden Wardrobe",
+      "description": "Spacious mahogany wardrobe with multiple compartments and classic design for bedroom storage.",
+      "price": 1150.00,
+      "stock_quantity": 5,
+      "category": "Bedroom"
+    },
+    {
+      "product_id": "F012",
+      "name": "Compact TV Stand",
+      "description": "Matte white TV stand with storage compartments, ideal for modern entertainment setups.",
+      "price": 230.00,
+      "stock_quantity": 13,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F013",
+      "name": "Foldable Study Desk",
+      "description": "Space-saving light maple study desk that folds for easy storage when not in use.",
+      "price": 140.00,
+      "stock_quantity": 22,
+      "category": "Office"
+    },
+    {
+      "product_id": "F014",
+      "name": "Outdoor Patio Chair",
+      "description": "Weather-resistant dark grey patio chair designed for outdoor comfort and durability.",
+      "price": 120.00,
+      "stock_quantity": 16,
+      "category": "Outdoor"
+    },
+    {
+      "product_id": "F015",
+      "name": "Rattan Outdoor Sofa",
+      "description": "Natural rattan outdoor sofa with weather-resistant cushions, perfect for patio relaxation.",
+      "price": 880.00,
+      "stock_quantity": 9,
+      "category": "Outdoor"
+    },
+    {
+      "product_id": "F016",
+      "name": "Wooden Shoe Rack",
+      "description": "Cherry brown wooden shoe rack with multiple tiers for organized entryway storage.",
+      "price": 95.00,
+      "stock_quantity": 17,
+      "category": "Storage"
+    },
+    {
+      "product_id": "F017",
+      "name": "Contemporary Bedside Table",
+      "description": "Ash grey bedside table with drawer and shelf, combining style with functionality.",
+      "price": 130.00,
+      "stock_quantity": 11,
+      "category": "Bedroom"
+    },
+    {
+      "product_id": "F018",
+      "name": "Kids Study Table",
+      "description": "Colorful blue and white study table designed specifically for children's homework and activities.",
+      "price": 110.00,
+      "stock_quantity": 19,
+      "category": "Kids"
+    },
+    {
+      "product_id": "F019",
+      "name": "Corner L-Shaped Sofa",
+      "description": "Spacious charcoal grey L-shaped sofa perfect for large living rooms and family gatherings.",
+      "price": 1450.00,
+      "stock_quantity": 6,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F020",
+      "name": "Luxury King Mattress",
+      "description": "Premium white king-size mattress with memory foam and superior comfort for restful sleep.",
+      "price": 780.00,
+      "stock_quantity": 8,
+      "category": "Bedroom"
+    },
+    {
+      "product_id": "F021",
+      "name": "Bamboo Coffee Table",
+      "description": "Eco-friendly natural bamboo coffee table with sustainable materials and modern design.",
+      "price": 175.00,
+      "stock_quantity": 12,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F022",
+      "name": "Modern Glass Bookshelf",
+      "description": "Contemporary bookshelf with clear glass shelves and black frame for a modern look.",
+      "price": 400.00,
+      "stock_quantity": 10,
+      "category": "Storage"
+    },
+    {
+      "product_id": "F023",
+      "name": "Upholstered Dining Chair",
+      "description": "Comfortable light beige upholstered dining chair with padded seat and backrest.",
+      "price": 145.00,
+      "stock_quantity": 24,
+      "category": "Dining Room"
+    },
+    {
+      "product_id": "F024",
+      "name": "Rustic Kitchen Island",
+      "description": "Pine wood kitchen island with storage and workspace, perfect for rustic kitchen designs.",
+      "price": 980.00,
+      "stock_quantity": 5,
+      "category": "Kitchen"
+    },
+    {
+      "product_id": "F025",
+      "name": "Metal Frame Bunk Bed",
+      "description": "Sturdy silver metal frame bunk bed designed for space-saving and durability.",
+      "price": 640.00,
+      "stock_quantity": 7,
+      "category": "Bedroom"
+    },
+    {
+      "product_id": "F026",
+      "name": "Adjustable Standing Desk",
+      "description": "White and grey adjustable standing desk with height control for ergonomic work setup.",
+      "price": 520.00,
+      "stock_quantity": 14,
+      "category": "Office"
+    },
+    {
+      "product_id": "F027",
+      "name": "Wooden Rocking Chair",
+      "description": "Classic teak rocking chair with smooth motion and comfortable seating for relaxation.",
+      "price": 350.00,
+      "stock_quantity": 9,
+      "category": "Living Room"
+    },
+    {
+      "product_id": "F028",
+      "name": "Luxury Dressing Table",
+      "description": "Elegant ivory white dressing table with mirror and drawers for bedroom organization.",
+      "price": 880.00,
+      "stock_quantity": 6,
+      "category": "Bedroom"
+    },
+    {
+      "product_id": "F029",
+      "name": "Outdoor Picnic Bench",
+      "description": "Natural wood picnic bench perfect for outdoor dining and garden gatherings.",
+      "price": 250.00,
+      "stock_quantity": 15,
+      "category": "Outdoor"
+    },
+    {
+      "product_id": "F030",
+      "name": "Velvet Ottoman",
+      "description": "Luxurious navy blue velvet ottoman that serves as both seating and storage solution.",
+      "price": 190.00,
+      "stock_quantity": 18,
+      "category": "Living Room"
+    }
+  ]
+}

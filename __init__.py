@@ -1,0 +1,1 @@
+# Stripped down product assistant implementation
