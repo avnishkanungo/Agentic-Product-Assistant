@@ -88,7 +88,7 @@ POST /respond
 **Request Body**:
 ```json
 {
-  "password": "abcd1234",
+  "password": "########",
   "query": "Show me some chairs"
 }
 ```
